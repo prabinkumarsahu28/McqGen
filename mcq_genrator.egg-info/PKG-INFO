@@ -6,6 +6,7 @@ Author-email: prabinkumarsahu28@gmail.com
 Requires-Dist: openai
 Requires-Dist: langchain
 Requires-Dist: langchain-openai
+Requires-Dist: langchain-community
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
